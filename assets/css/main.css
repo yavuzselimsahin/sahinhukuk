@@ -3708,7 +3708,7 @@ input, select, textarea {
 
 			#banner {
 				padding: 7em 3em 5em 3em ;
-				height: auto;
+				/* height: auto; */
 				min-height: 0;
 			}
 
@@ -3908,7 +3908,7 @@ input, select, textarea {
 			letter-spacing: 0.225em;
 			list-style: none;
 			padding: 0;
-			text-transform: uppercase;
+			
 		}
 
 			#footer .copyright li {
