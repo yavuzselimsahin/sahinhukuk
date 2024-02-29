@@ -1722,9 +1722,9 @@
 		}
 	}
 
-/* CTA */
+/* info */
 
-	#cta {
+	#info {
 		.inner {
 			@include vendor('display', 'flex');
 			max-width: 45em;
